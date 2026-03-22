@@ -6,6 +6,7 @@ From-scratch K-Means clustering implementation in Python using only NumPy. Cover
 A from-scratch implementation of the K-Means clustering algorithm in Python, with a practical application: **compressing images by reducing their color palette using unsupervised learning**.
 
 ---
+Project Started: 13/3/2026
 Project Ended: 14/3/2026
 ## Table of Contents
 
